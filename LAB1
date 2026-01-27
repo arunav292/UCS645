@@ -3,7 +3,6 @@
 #include <omp.h>
 
 #define N (1<<16)
-
 int main() {
     double *X, *Y;
     double a = 2.5;
